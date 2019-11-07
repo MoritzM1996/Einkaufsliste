@@ -1,10 +1,12 @@
 # Einkaufsliste
 ## Lebenslauf
-**Moritz Müller**
+**Moritz MÃ¼ller**
 
 >* Schule
 >* Ausbildung
 >* Arbeit
 >* Studium
 
-![C://Bibliothek/Bilder/Welt.jfif](Foto)
+
+![Welt.jpg](Welt.jpg)
+
