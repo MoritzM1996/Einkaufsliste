@@ -7,6 +7,5 @@
 >* Arbeit
 >* Studium
 
-
 ![Welt.jpg](Welt.jpg)
 
