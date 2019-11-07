@@ -8,5 +8,4 @@
 >* Arbeit
 >* Studium
 
-
-BRANCH - MORITZ
+![Welt.jpg](Welt.jpg)
