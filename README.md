@@ -8,4 +8,4 @@
 >* Arbeit
 >* Studium
 
-![Welt.jfif](Foto)
+![Welt.jpg](Foto)
