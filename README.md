@@ -1,4 +1,10 @@
 # Einkaufsliste
+## Lebenslauf
+**Moritz Müller**
 
-**Tarik Madan**
-**Tarik Madan**
+>* Schule
+>* Ausbildung
+>* Arbeit
+>* Studium
+
+![C://Bibliothek/Bilder/Welt.jfif](Foto)
